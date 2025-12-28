@@ -1,7 +1,7 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 24/12/25
 ## AIM:
-### To simulate the Pre Processing for 3D printing.
+### To simulate the Pre Processing for 3D printing. 
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1745" height="760" alt="Screenshot 2025-12-28 140808" src="https://github.com/user-attachments/assets/44daa229-2cf5-4197-ab9b-cf64d4267a6a" />
 
-### Name:
-### Register Number:
+### Name:LEKHASHRI E
+### Register Number:25008477
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
